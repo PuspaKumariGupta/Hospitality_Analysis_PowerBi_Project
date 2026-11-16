@@ -7,9 +7,6 @@ This project presents an interactive **Hotel Revenue Analytics Dashboard** built
 
 The primary objective is to analyze hotel performance across different room types, property categories, and time periods to support data-driven business decisions.
 
-## 📊 Dashboard Preview
-
-![Hotel Revenue Dashboard](dashboard.png)
 
 ## 🎯 Key Features
 
